@@ -19,3 +19,9 @@ curve) significantly closer to the ground truth acceleration graph (black curve)
 unseen test video from [Human3.6M dataset](https://ieeexplore.ieee.org/document/6682899)).
 
 ![My Image](assets/teaser.png)
+
+
+
+
+
+[![Watch the video](https://github.com/HrishavBakulBarua/3D-Human/blob/main/assets/paper_2452_video.mp4)](https://youtu.be/vt5fpE0bzSY)
