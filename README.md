@@ -25,3 +25,8 @@ unseen test video from [Human3.6M dataset](https://ieeexplore.ieee.org/document/
 
 
 [![Watch the video](https://github.com/HrishavBakulBarua/3D-Human/blob/main/assets/paper_2452_video.mp4)](https://youtu.be/vt5fpE0bzSY)
+
+
+## The Architecture
+
+![My Image](assets/architecture.png)
