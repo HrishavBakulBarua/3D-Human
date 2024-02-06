@@ -15,7 +15,7 @@ Project Members - [Sushovan Chanda](https://www.researchgate.net/profile/Sushova
 ## Overview
 
 Our method yields superior and temporally consistent motion estimation. It can be observed that our method yield graph (green
-curve) significantly closer to the ground truth acceleration graph (black curve) compared to existing methods [2, 38, 39] (result inferred on
-unseen test video from Human3.6M dataset [11]).
+curve) significantly closer to the ground truth acceleration graph (black curve) compared to existing methods [1](https://openaccess.thecvf.com/content/CVPR2021/papers/Choi_Beyond_Static_Features_for_Temporally_Consistent_3D_Human_Pose_and_CVPR_2021_paper.pdf), [2](https://arxiv.org/abs/2203.08534), and [3](https://arxiv.org/abs/2112.01524) (result inferred on
+unseen test video from [Human3.6M dataset](https://ieeexplore.ieee.org/document/6682899)).
 
-![My Image](assets/teaset.png)
+![My Image](assets/teaser.png)
