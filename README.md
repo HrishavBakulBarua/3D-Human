@@ -14,6 +14,8 @@ Project Members - [Sushovan Chanda](https://www.researchgate.net/profile/Sushova
 
 ## Overview
 
+Our method yields superior and temporally consistent motion estimation. It can be observed that our method yield graph (green
+curve) significantly closer to the ground truth acceleration graph (black curve) compared to existing methods [2, 38, 39] (result inferred on
+unseen test video from Human3.6M dataset [11]).
 
-
-![My Image](assets/)
+![My Image](assets/teaset.png)
