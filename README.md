@@ -26,16 +26,17 @@ unseen test video from [Human3.6M dataset](https://ieeexplore.ieee.org/document/
 ![My Image](assets/teaser.png)
 
 
-
-
-
-[![Watch the video](https://github.com/HrishavBakulBarua/3D-Human/blob/main/assets/paper_2452_video.mp4)](https://youtu.be/vt5fpE0bzSY)
-
-
 ## The Architecture
 
 ![My Image](assets/architecture.png)
 
 
+##Video of our work
+
+
 https://github.com/HrishavBakulBarua/3D-Human/assets/111484665/5c799d6a-0346-459c-aae7-e0e4765c0b05
+
+
+
+https://github.com/HrishavBakulBarua/3D-Human/assets/111484665/c11f1a1e-3eff-455a-9058-ffb35cfcf6aa
 
