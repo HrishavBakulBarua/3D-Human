@@ -9,23 +9,8 @@ This joint project is a collaboration between [TCS Research, Kolkata](https://ww
 Project Members - [Sushovan Chanda](https://www.researchgate.net/profile/Sushovan-Chanda/research) [(TCS Research, Kolkata)](https://www.tcs.com/research-and-innovation), [Amogh Tiwari](https://www.linkedin.com/in/amogh-tiwari-b370a856/?originalSubdomain=in) [(IIIT Hyderabad)](https://www.iiit.ac.in/), [Lokender Tiwari](https://lokender.github.io/) [(TCS Research, Kolkata)](https://www.tcs.com/research-and-innovation), [Brojeshwar Bhowmick](https://sites.google.com/view/brojeshwar/home) [(TCS Research, Kolkata)](https://www.tcs.com/research-and-innovation), [Avinash Sharma](https://researchweb.iiit.ac.in/~avinash_s/resume.html) [(IIIT Hyderabad)](https://www.iiit.ac.in/), and [Hrishav Bakul Barua](https://www.researchgate.net/profile/Hrishav-Barua)  [(TCS Research, Kolkata)](https://www.tcs.com/research-and-innovation)
 
 
-###Abstract
-Recovering temporally consistent 3D human body pose,
-shape and motion from a monocular video is a challenging
-task due to (self-)occlusions, poor lighting conditions, complex articulated body poses, depth ambiguity, and limited
-availability of annotated data. Further, doing a simple perframe estimation is insufficient as it leads to jittery and implausible results. In this paper, we propose a novel method
-for temporally consistent motion estimation from a monocular video. Instead of using generic ResNet-like features, our
-method uses a body-aware feature representation and an independent per-frame pose and camera initialization over a
-temporal window followed by a novel spatio-temporal feature aggregation by using a combination of self-similarity
-and self-attention over the body-aware features and the perframe initialization. Together, they yield enhanced spatiotemporal context for every frame by considering remaining
-past and future frames. These features are used to predict
-the pose and shape parameters of the human body model,
-which are further refined using an LSTM. Experimental results on the publicly available benchmark data show that
-our method attains significantly lower acceleration error
-and outperforms the existing state-of-the-art methods over
-all key quantitative evaluation metrics, including complex
-scenarios like partial occlusion, complex poses and even
-relatively low illumination.
+### Abstract
+
 
 [Link to the paper](https://arxiv.org/pdf/2311.11662.pdf)!!
 
