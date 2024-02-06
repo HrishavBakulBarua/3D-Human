@@ -40,3 +40,18 @@ https://github.com/HrishavBakulBarua/3D-Human/assets/111484665/5c799d6a-0346-459
 
 https://github.com/HrishavBakulBarua/3D-Human/assets/111484665/c11f1a1e-3eff-455a-9058-ffb35cfcf6aa
 
+
+##  Citation 
+
+If you find our work in your research or development activities, please cite our paper as follows:
+
+~~~
+
+@article{chanda2023enhanced,
+  title={Enhanced Spatio-Temporal Context for Temporally Consistent Robust 3D Human Motion Recovery from Monocular Videos},
+  author={Chanda, Sushovan and Tiwari, Amogh and Tiwari, Lokender and Bhowmick, Brojeshwar and Sharma, Avinash and Barua, Hrishav},
+  journal={arXiv preprint arXiv:2311.11662},
+  year={2023}
+}
+
+~~~
