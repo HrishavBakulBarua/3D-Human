@@ -23,12 +23,12 @@ Our method yields superior and temporally consistent motion estimation. It can b
 curve) significantly closer to the ground truth acceleration graph (black curve) compared to existing methods [1](https://openaccess.thecvf.com/content/CVPR2021/papers/Choi_Beyond_Static_Features_for_Temporally_Consistent_3D_Human_Pose_and_CVPR_2021_paper.pdf), [2](https://arxiv.org/abs/2203.08534), and [3](https://arxiv.org/abs/2112.01524) (result inferred on
 unseen test video from [Human3.6M dataset](https://ieeexplore.ieee.org/document/6682899)).
 
-![My Image](assets/teaser.png)
+![My Image](assets/Teaser_new.png)
 
 
 ## The Architecture
 
-![My Image](assets/architecture.png)
+![My Image](assets/Architecture_new.png)
 
 
 ## Videos of our work
